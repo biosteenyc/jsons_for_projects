@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c-101",
+    "name": "Ali Valiyev",
+    "phone": "+998 90 123 45 67",
+    "address": "Marg'ilon sh., Mustaqillik ko'chasi",
+    "vehicles": [
+      {
+        "id": "v-501",
+        "brand": "Chevrolet",
+        "model": "Gentra",
+        "plate_number": "01 A 777 AA",
+        "current_mileage": 65400,
+        "next_oil_change": 72000
+      }
+    ]
+  }
+]
