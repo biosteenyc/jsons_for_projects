@@ -1,0 +1,14 @@
+{
+  "user": {
+    "id": "u-998",
+    "full_name": "Asilbek Abdullayev",
+    "role": "admin",
+    "workshop_name": "Premium Oil Service",
+    "subscription": {
+      "plan": "PRO",
+      "expiry_date": "2026-04-13",
+      "days_left": 18,
+      "usage_percent": 0.6
+    }
+  }
+}
