@@ -1,0 +1,9 @@
+{
+  "total_revenue": 12450000,
+  "total_expense": 4200000,
+  "net_profit": 8250000,
+  "client_growth": 842,
+  "recent_actions": [
+    {"type": "service", "label": "Moy almashtirish", "customer": "Ali V.", "amount": 450000}
+  ]
+}
