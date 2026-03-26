@@ -1,0 +1,12 @@
+{
+  "client_id": "c-101",
+  "vehicle_id": "v-501",
+  "mileage": 65400,
+  "next_service_mileage": 73000,
+  "items": [
+    {"product_id": "p-202", "quantity": 4, "total_price": 1800000}
+  ],
+  "service_fee": 50000.0,
+  "grand_total": 1850000.0,
+  "payment_method": "cash"
+}
