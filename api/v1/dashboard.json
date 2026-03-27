@@ -1,9 +1,17 @@
 {
-  "total_revenue": 12450000,
+  "total_balance": 8250000,
+  "total_income": 12450000,
   "total_expense": 4200000,
-  "net_profit": 8250000,
-  "client_growth": 842,
+  "clients_count": 842,
+  "services_count": 156,
   "recent_actions": [
-    {"type": "service", "label": "Moy almashtirish", "customer": "Ali V.", "amount": 450000}
+    {
+      "id": "act_001",
+      "type": "service",
+      "label": "Moy almashtirish",
+      "customer": "Ali V.",
+      "amount": 450000,
+      "date": "2026-03-27T10:00:00Z"
+    }
   ]
 }
