@@ -1,16 +1,10 @@
-{
-  "categories": [
-    {"id": "cat-1", "name": "Motor Moylari", "count": 12},
-    {"id": "cat-2", "name": "Filtrlar", "count": 25}
-  ],
-  "products": [
-    {
-      "id": "p-202",
-      "category_id": "cat-1",
-      "name": "Shell Helix Ultra 5W-40",
-      "price": 450000.0,
-      "stock": 15.5,
-      "unit": "litr"
-    }
-  ]
-}
+[
+  {
+    "id": "p-202",
+    "category_id": "cat-1",
+    "name": "Shell Helix Ultra 5W-40",
+    "price": 450000.0,
+    "stock": 15.5,
+    "unit": "litr"
+  }
+]
